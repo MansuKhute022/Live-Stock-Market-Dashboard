@@ -468,42 +468,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/nse-live-dashboard/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/nse-live-dashboard/discussions)
-- **Email:** your.email@example.com
-
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/nse-live-dashboard&type=Date)](https://star-history.com/#yourusername/nse-live-dashboard&Date)
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Overview Tab
-<img src="https://user-images.githubusercontent.com/placeholder/overview-tab.png" width="700"/>
-
-### Financials Tab
-<img src="https://user-images.githubusercontent.com/placeholder/financials-tab.png" width="700"/>
-
-### Shareholding Tab
-<img src="https://user-images.githubusercontent.com/placeholder/shareholding-tab.png" width="700"/>
-
-### Mobile View
-<img src="https://user-images.githubusercontent.com/placeholder/mobile-view.png" width="350"/>
-
-</div>
+- **Email:** mansukhute@iitbhilai.ac.in
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
+**Built with ❤️ by [Mansu Khute]**
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
