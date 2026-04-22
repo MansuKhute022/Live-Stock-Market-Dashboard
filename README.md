@@ -11,9 +11,7 @@
 
 **Real-time NSE Stock Market Dashboard with Beautiful Analytics & Live Public URL**
 
-[🚀 Live Demo](https://savor-cabdriver-grapple.ngrok-free.dev/) • [📚 Documentation](#documentation) • [🎯 Features](#features)
-
-<img src="https://user-images.githubusercontent.com/placeholder/dashboard-preview.png" alt="Dashboard Preview" width="800"/>
+[🚀 Live Demo](https://savor-cabdriver-grapple.ngrok-free.dev/) 
 
 </div>
 
